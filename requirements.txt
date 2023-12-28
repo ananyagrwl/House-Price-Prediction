@@ -1,0 +1,5 @@
+pickle 
+flask
+json
+os
+numpy
