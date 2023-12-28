@@ -1,4 +1,5 @@
 Flask==2.0.2
+flask
 json5==0.9.6
 numpy==1.26.2
 pickle-mixin==1.0.2
